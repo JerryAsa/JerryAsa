@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JerryAsa
 - 👀 I’m interested in codeing, learning new things and games
-- 🌱 I’m currently learning Phyton.
-- 📫 How to reach me:
--   You can reach me at LinkedIn @JeremiahAsamoah or on this page.
+- 🌱 I’m currently learning Java.
+- 🏆 Goal for 2025 is to make atleast 12 new Projects
 
 <!---
 JerryAsa/JerryAsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
